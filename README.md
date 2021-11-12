@@ -1,7 +1,6 @@
 # SEDOL_Validator_casestudy
 
-This is the case study for 10FA.
-Its SEDOL Validator.
+This is the SEDOL Validator.
 Where we pass 7 char SEDOL value and we get result. 
 
 The objective of this exercise is to implement a SEDOL checker in C# based on requirements provided below. The following provides some background information around SEDOL validation:
